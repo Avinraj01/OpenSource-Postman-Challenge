@@ -18,7 +18,7 @@ This is the all in one place for documentation help regarding the postman challe
 </div>
 
 
- [![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://Avinraj01.io)
+ [![MasterHead](https://drive.google.com/file/d/1elpFDZQmjUlWN7QaC6dHH6346peDg4L9/view)](https://Avinraj01.io)
 
 ## Usage
 
