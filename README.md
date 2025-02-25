@@ -18,7 +18,7 @@ This is the all in one place for documentation help regarding the postman challe
 </div>
 
 
- [![MasterHead](D:\GirlsScript-Summer of Code.jpg)](https://Avinraj01.io)
+ [![MasterHead](file:///D:/GirlsScript-Summer%20of%20Code.jpg)](https://Avinraj01.io)
 
 ## Usage
 
