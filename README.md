@@ -18,7 +18,7 @@ This is the all in one place for documentation help regarding the postman challe
 </div>
 
 
- [![MasterHead](https://nvc-project.my.canva.site/dagf4b8vquw)](https://Avinraj01.io)
+ [![MasterHead](D:\GirlsScript-Summer of Code.jpg)](https://Avinraj01.io)
 
 ## Usage
 
