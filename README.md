@@ -21,7 +21,7 @@ This is the all in one place for documentation help regarding the postman challe
 </div>
 
 
- [![MasterHead](file:///D:/GirlsScript-Summer%20of%20Code.jpg)](https://Avinraj01.io)
+ [![MasterHead](https://lh3.googleusercontent.com/pw/AP1GczMmCL0qli6YFRAQg0ytu44HbcJbKrjVcQ2RepcI0K9uBrXlQKXL3hCURak9L8--rFbbZge-yJi6e7xYuDC1SuctuDdkBTxjbQsGIFZhuGfsA7ZOITsV3UpVwEY8UAXCMDtNIji5aQ7mEN0rUoqcYjTe=w831-h827-s-no-gm?authuser=0)](https://Avinraj01.io)
 
 
 ## Usage
